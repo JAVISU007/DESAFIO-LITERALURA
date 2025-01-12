@@ -1,6 +1,3 @@
-
-Aquí tienes el README simplificado sin la imagen ni el video de demostración:
-
 Desafío Literalura
 Aplicación de consola en Java que permite buscar y gestionar información sobre libros y autores utilizando la API de Gutendex. Proyecto realizado como parte del programa Oracle Next Education.
 
@@ -23,10 +20,6 @@ Copiar código
 7 - Obtener estadísticas
 0 - Salir
 Cómo usar la aplicación
-Clonar el repositorio:
-bash
-Copiar código
-git clone https://github.com/mendodevv/desafio-literalura.git
 Configurar la base de datos:
 Crea una base de datos PostgreSQL y actualiza las credenciales en src/main/resources/application.properties.
 Compilar y ejecutar:
@@ -42,19 +35,3 @@ Maven
 PostgreSQL
 Estado del proyecto
 Finalizado.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
